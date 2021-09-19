@@ -1,0 +1,21 @@
+[es]
+  title = "BRP"
+  languageName = "Spanish"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/es"
+
+[en]
+  title = "BRP"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[ko]
+  title = "BRP"
+  languageName = "한국어"
+  weight = 3
+  languagedir = "ltr"
+  contentdir = "content/ko"
+

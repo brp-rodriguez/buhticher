@@ -1,0 +1,10 @@
+Abrir cmd
+Ejecutar comando hugo
+Copiar contenido que se genera en la carpeta public a la carpeta 
+que esta afuera
+brp-rodriguez.github.io
+
+Abrir git en esa carpeta 
+Agregar
+Pushear
+Subir Cambios
