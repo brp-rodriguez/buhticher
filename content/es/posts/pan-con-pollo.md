@@ -1,14 +1,16 @@
 ---
-title: "Pan Con Pollo"
-date: 2021-09-18T17:32:46-05:00
-draft: false
-description: "Tutorial sobre cómo prepara un buen pan con pollo"
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: El brayan XD
-authorEmoji: 👺
+title: "Post Estructura " #(Titulo del post)
+date: 2021-09-18T17:32:46-05:00 #(Fecha del post, es posible cambioarlo)
+draft: false  
 
+description: "Tutorial sobre cómo"  #(Breve descropción)
+hideToc: false #(false: se muestra el indice a la derecha ... true no se muestra)
+enableToc: true #(Se quita o no la opción de derecha que permite ocultar o no)
+enableTocContent: false  #(Indice pero vertical)
+author: Brayan Rodriguez #(Autor)
+authorEmoji: 😁
+
+#(Etiquetas de referencia al contenido)
 tags:
 - pan
 - pollo
@@ -21,23 +23,23 @@ image: images/feature2/content.png
 
 El pan con pollo es una muestra de comida sustancial en el mundo latinoamericano de los pollos con papas con ensalada o con tomate blanco de alfarjor
 
----
 
-## YouTube Privacy Enhanced Shortcode
+## Titulo 1
+---
+Descripción de titulo 1
 
 ---
+## Titulo 2
 
-## YouTube Privacy Enhanced Shortcode
 ---
-## YouTube Privacy Enhanced Shortcode
+### Subtitulo 1
+
 ---
-# YouTube Privacy Enhanced Shortcode
+Descripción de Subtitulo 2
+
 ---
-### YouTube Privacy Enhanced Shortcode
+### Subtitlo 2
+
 ---
-#### YouTube Privacy Enhanced Shortcode
----
-##### YouTube Privacy Enhanced Shortcode
----
-###### YouTube Privacy Enhanced Shortcode
----
+Descripción de subtitulo 3
+
