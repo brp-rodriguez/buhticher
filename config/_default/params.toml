@@ -1,13 +1,14 @@
 logoText = "Buhticher"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Espacio dedicado a compartir conocimientos de ciberseguridad"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
+#(themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"])
+themeOptions = ["dark", "light","kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
@@ -20,8 +21,8 @@ enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
-enableAppbarSearchIcon = false
-enableAppbarLangIcon = false
+enableAppbarSearchIcon = true #(habilitar busqueda)
+enableAppbarLangIcon = false #(habilitar idioma)
 
 # header
 homeHeaderType = "text" # text, img, slide, typewriter
@@ -63,10 +64,10 @@ typeIcon = "🎯"
 myname = "Brayan Rodriguez"
 email = "b.rodriguezp[AT]pucp.pe"
 whoami = "Desarrollador Web"
-bioImageUrl = "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/86/4b/4f864b91-acd7-0f54-b211-38bae34ebd4a/source/256x256bb.jpg"
+bioImageUrl = "whoami/avatar2.jpg"
 useGravatar = false
 location = "Lima, Perú"
-organization = "Hugo"
+organization = "Binfosec"
 link = "https://zzossig.io/ko"
 
 # sidebar
@@ -90,7 +91,7 @@ enableSidebarPostsByOrder = false
 
 # footer
 showPoweredBy = true
-showFeedLinks = true
+showFeedLinks = false #(RSS)
 showSocialLinks = true
 enableLangChange = true
 enableThemeChange = true
@@ -162,53 +163,7 @@ commento = false
 
 [socialOptions]
   email = "mailto:your@email.com"
-  phone = ""
-  facebook = "http://example.org/"
   twitter = "http://example.org/"
+  facebook = "https://facebook"
   github = "https://github.com/zzossig/hugo-theme-zzo"
-  stack-overflow = ""
-  instagram = ""
-  google-plus = ""
-  youtube = ""
-  medium = ""
-  tumblr = ""
-  linkedin = ""
-  pinterest = ""
-  stack-exchange = ""
-  telegram = ""
-  steam = ""
-  weibo = ""
-  douban = ""
-  csdn = ""
-  gitlab = ""
-  mastodon = ""
-  jianshu = ""
-  zhihu = ""
-  signal = ""
-  whatsapp = ""
-  matrix = ""
-  xmpp = ""
-  dev-to = ""
-  gitea = ""
-  google-scholar = ""
-
-[donationOptions]
-  enable = false
-  alipay = "" 
-  wechat = ""
-  paypal = ""
-  patreon = ""
-
-# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
-[[share]]
-  name = "facebook"
-  username = ""
-[[share]]
-  name = "twitter"
-
-[[footerLinks]]
-  name = ""
-  link = ""
-[[footerLinks]]
-  name = ""
-  link = ""
+ 

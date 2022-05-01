@@ -6,7 +6,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: El brayan XD
+author: Brayan Rodriguez
 authorEmoji: 👺
 tags: 
 - shortcodes

@@ -17,6 +17,8 @@ tags:
 - pan con pollo
 - recetas
 - comidas
+categories:
+- diagram
 image: images/feature2/content.png	
 ---
 

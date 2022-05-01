@@ -8,6 +8,6 @@ enableToc: true
 enableTocContent: false
 author: El brayan XD
 authorEmoji: 👺
-
+image: images/feature2/content.png	
 ---
 
