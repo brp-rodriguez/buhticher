@@ -1,3 +1,5 @@
-baseURL = "http://buhticher.org/"
+baseURL = "http://brp-rodriguez.github.io/"
 languageCode = "es-PE"
-title = "Sitio buthticher Conf - 1 - Root"
+title = "Web Personal"
+theme = "zzo"
+

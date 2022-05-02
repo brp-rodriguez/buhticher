@@ -10,27 +10,28 @@
   url = "archive"
   weight = 2
 
-[[main]]
-  identifier = "presentation"
-  name = "Presentaciones"
-  url = "presentation"
-  weight = 3
+#(Comentarios)
+#([[main]])
+  #(identifier = "presentation")
+  #(name = "Presentaciones")
+  #(url = "presentation")
+  #(weight = 3)
 
-[[main]]
-  identifier = "gallery"
-  name = "Galería"
-  url = "gallery"
-  weight = 4
+#([[main]])
+#(  identifier = "gallery")
+#(  name = "Galería")
+#(  url = "gallery")
+#(  weight = 4)
     
-[[main]]
-  parent = "gallery"
-  name = "Caricaturas"
-  url = "gallery/cartoon"
+#([[main]])
+#(  parent = "gallery")
+#(  name = "Caricaturas")
+#(  url = "gallery/cartoon")
 
-[[main]]
-  parent = "gallery"
-  name = "Fotos"
-  url = "gallery/photo"
+#([[main]])
+#(  parent = "gallery")
+#(  name = "Fotos")
+#(  url = "gallery/photo")
 
 [[main]]
   identifier = "posts"
@@ -38,11 +39,11 @@
   url = "posts"
   weight = 5
 
-[[main]]
-  identifier = "showcase"
-  name = "Casos"
-  url = "showcase"
-  weight = 6
+#([[main]])
+#(  identifier = "showcase")
+#(  name = "Casos")
+#(  url = "showcase")
+#(  weight = 6)
 
 [[main]]
   identifier = "publication"

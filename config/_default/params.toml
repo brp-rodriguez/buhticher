@@ -1,17 +1,18 @@
 logoText = "Buhticher"
 logoType = "short" # long, short
-description = "Espacio dedicado a compartir conocimientos de ciberseguridad"
+logo = true 
+description = "Bitácora de Brayan Rodriguez"
 custom_css = []
 custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
 #(themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"])
 themeOptions = ["dark", "light","kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume","gallery"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume","gallery"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
@@ -22,7 +23,7 @@ minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = true #(habilitar busqueda)
-enableAppbarLangIcon = false #(habilitar idioma)
+enableAppbarLangIcon = false #(habilitar idioma en la parte de arriba) 
 
 # header
 homeHeaderType = "text" # text, img, slide, typewriter
@@ -63,12 +64,12 @@ typeIcon = "🎯"
 # whoami
 myname = "Brayan Rodriguez"
 email = "b.rodriguezp[AT]pucp.pe"
-whoami = "Desarrollador Web"
+whoami = "Informático"
 bioImageUrl = "whoami/avatar2.jpg"
 useGravatar = false
 location = "Lima, Perú"
-organization = "Binfosec"
-link = "https://zzossig.io/ko"
+organization = "Brinfosec"
+link = "https://brinfosec.github.io/"
 
 # sidebar
 enableBio = true
@@ -90,10 +91,10 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = false #(RSS)
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service

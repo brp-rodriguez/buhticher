@@ -20,20 +20,20 @@ header:
     fontColor: yellow
     
   - type: text
-    height: 200
+    height: 150
     paddingX: 50
     paddingY: 0
     align: center
     title:
-      - CONTENIDO EN ESPAÑOL
+      - BRAYAN RODRIGUEZ PADILLA
     subtitle:
-      - The world’s fastest framework for building websites
+      - Bitácora de apuntes personales 
     titleColor: 
     titleShadow: true
-    titleFontSize: 44
+    titleFontSize: 34
     subtitleColor: 
     subtitleCursive: false
-    subtitleFontSize: 18
+    subtitleFontSize: 22
     spaceBetweenTitleSubtitle: 16
   
   - type: img
