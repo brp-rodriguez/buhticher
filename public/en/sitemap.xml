@@ -100,12 +100,42 @@
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/amaji/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/amaji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/amaji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/amoji/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/amoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/amoji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/bamaji/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/bamaji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/bamaji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/categories/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
@@ -127,15 +157,55 @@
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/css/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/css/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/hugo/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/hugo/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/categories/hugo/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/categories/hugo/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/panda/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/panda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/panda/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
@@ -146,17 +216,22 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://brp-rodriguez.github.io/en/posts/"
                 />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/shortcode/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/shortcode/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/shortcodesv2/</loc>
     <lastmod>2020-02-25T06:40:51+09:00</lastmod>
@@ -210,9 +285,29 @@
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/html/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/markdown/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
@@ -237,24 +332,104 @@
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/categories/syntax/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/themes/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/categories/themes/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/series/themes-guide/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/privacy/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/posts/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/posts/rich-content/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/shortcodes/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
@@ -264,21 +439,76 @@
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/bamoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/bamoji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/emoji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/gamoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/gamoji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/namoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/namoji/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/categories/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/categories/diagram/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
@@ -294,12 +524,47 @@
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/tags/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/tags/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/tags/diagram/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://brp-rodriguez.github.io/es/posts/test-mermaid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/posts/test-mermaid/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brp-rodriguez.github.io/ko/categories/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brp-rodriguez.github.io/en/categories/math/"
+                />
   </url><url>
     <loc>https://brp-rodriguez.github.io/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
@@ -319,11 +584,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://brp-rodriguez.github.io/en/gallery/cartoon/"
                 />
@@ -337,11 +597,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://brp-rodriguez.github.io/en/gallery/"
                 />
@@ -352,11 +607,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://brp-rodriguez.github.io/es/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -438,11 +688,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://brp-rodriguez.github.io/en/archive/"
                 />
@@ -453,11 +698,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://brp-rodriguez.github.io/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://brp-rodriguez.github.io/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
