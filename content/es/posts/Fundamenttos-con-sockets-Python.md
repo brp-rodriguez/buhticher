@@ -8,7 +8,7 @@ hideToc: false #(false: se muestra el indice a la derecha ... true no se muestra
 enableToc: true #(Se quita o no la opci贸n de derecha que permite ocultar o no)
 enableTocContent: false  #(Indice pero vertical)
 author: Brayan Rodriguez #(Autor)
-authorEmoji: 馃榿
+authorEmoji: 👺
 
 #(Etiquetas de referencia al contenido)
 tags:
